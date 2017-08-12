@@ -1,0 +1,5 @@
+   def __unicode__(self):
+        return "() - () ".format(self.date,self.amount)
+
+   this code dosn't work
+   ------------------------------------
